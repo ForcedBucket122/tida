@@ -1,0 +1,30 @@
+#kontener{
+    display: flex;
+    /* justify-content: flex; */
+    align-items:center;
+    flex-direction: column;
+    margin-top: 10%;
+    margin-left: 35%;
+    padding: 10px;
+    font-size: 30px;
+    width: fit-content;
+    border: solid 5px;
+    border-radius: 20px;
+}
+h3{
+    font-size: 50px;
+    margin-top: 10px;
+}
+#wygrales{
+    font-size: 40px;
+    font-weight: 900;
+}
+input{
+    font-size: x-large;
+    background-color:rgb(91, 33, 145) ;
+    border: solid 1px;
+    border-radius: 20px;
+}
+body{
+    background-color: blueviolet;
+}

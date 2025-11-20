@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+        <div id="kontener"> <h3>Zgadnij liczbe od 1 do 100</h3>
+            <form >
+                <label>Podaj liczbe</label>
+                <input type="number" id="odpowiedz" on>
+                <input type="button" value="wyslij" id="buton" onclick="f1(),f2()">
+            </form>
+            <div id="wygrales"></div>
+            <div id="wieksza_mniejsza"></div>
+            <div id="wpisane_l"></div>
+            <div id="l_prob"></div>
+        </div>
+    <script>
+        let a=Math.round(Math.random()*100);
+        console.log(a);
+        let l_odpowiedzi=0;
+        let odpowiedziPC=1;
+        let tablica=[];
+
+        function f2(){
+            l_odpowiedzi+=odpowiedziPC;
+            console.log(l_odpowiedzi);
+            let odp=document.getElementById("odpowiedz").value;
+            odp=parseInt(odp);
+            tablica.push(odp);
+            document.getElementById("wpisane_l").innerHTML="Podane odpowiedzi to: "+ tablica;
+        }
+        function f1(){
+            let odp=document.getElementById("odpowiedz").value;
+            odp=parseInt(odp);
+            
+
+            if(odp==a){
+               document.getElementById("wygrales").innerHTML="Brawo liczba ktora wylosowales to: "+ a;
+               document.getElementById("l_prob").innerHTML="Liczba twoich prob to: " + l_odpowiedzi;
+               document.getElementById("wieksza_mniejsza").innerHTML="liczby sa rowne";
+            }
+            else{
+                document.getElementById("wygrales").innerHTML="Nie tym razem, spróbuj ponownie.";
+                if(odp<a){
+                    document.getElementById("wieksza_mniejsza").innerHTML="Liczba jest wieksza"; 
+                }else if(odp>a){
+                    document.getElementById("wieksza_mniejsza").innerHTML="Liczba jest mniejsza"; 
+                }
+            }
+        }
+    </script>
+
+</body>
+</html>
