@@ -12,5 +12,8 @@
     "testy"
   ],
   "author": "ja",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^15.7.0"
+  }
 }
