@@ -1,0 +1,15 @@
+C:\Users\SzczypkaJakub\Documents\GitHub\tida\c#\INF04_Konsola_Uczniowie\INF04_Konsola_Uczniowie\bin\Debug\net8.0\INF04_Konsola_Uczniowie.exe
+C:\Users\SzczypkaJakub\Documents\GitHub\tida\c#\INF04_Konsola_Uczniowie\INF04_Konsola_Uczniowie\bin\Debug\net8.0\INF04_Konsola_Uczniowie.deps.json
+C:\Users\SzczypkaJakub\Documents\GitHub\tida\c#\INF04_Konsola_Uczniowie\INF04_Konsola_Uczniowie\bin\Debug\net8.0\INF04_Konsola_Uczniowie.runtimeconfig.json
+C:\Users\SzczypkaJakub\Documents\GitHub\tida\c#\INF04_Konsola_Uczniowie\INF04_Konsola_Uczniowie\bin\Debug\net8.0\INF04_Konsola_Uczniowie.dll
+C:\Users\SzczypkaJakub\Documents\GitHub\tida\c#\INF04_Konsola_Uczniowie\INF04_Konsola_Uczniowie\bin\Debug\net8.0\INF04_Konsola_Uczniowie.pdb
+C:\Users\SzczypkaJakub\Documents\GitHub\tida\c#\INF04_Konsola_Uczniowie\INF04_Konsola_Uczniowie\obj\Debug\net8.0\INF04_Konsola_Uczniowie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SzczypkaJakub\Documents\GitHub\tida\c#\INF04_Konsola_Uczniowie\INF04_Konsola_Uczniowie\obj\Debug\net8.0\INF04_Konsola_Uczniowie.AssemblyInfoInputs.cache
+C:\Users\SzczypkaJakub\Documents\GitHub\tida\c#\INF04_Konsola_Uczniowie\INF04_Konsola_Uczniowie\obj\Debug\net8.0\INF04_Konsola_Uczniowie.AssemblyInfo.cs
+C:\Users\SzczypkaJakub\Documents\GitHub\tida\c#\INF04_Konsola_Uczniowie\INF04_Konsola_Uczniowie\obj\Debug\net8.0\INF04_Konsola_Uczniowie.csproj.CoreCompileInputs.cache
+C:\Users\SzczypkaJakub\Documents\GitHub\tida\c#\INF04_Konsola_Uczniowie\INF04_Konsola_Uczniowie\obj\Debug\net8.0\INF04_Konsola_Uczniowie.sourcelink.json
+C:\Users\SzczypkaJakub\Documents\GitHub\tida\c#\INF04_Konsola_Uczniowie\INF04_Konsola_Uczniowie\obj\Debug\net8.0\INF04_Konsola_Uczniowie.dll
+C:\Users\SzczypkaJakub\Documents\GitHub\tida\c#\INF04_Konsola_Uczniowie\INF04_Konsola_Uczniowie\obj\Debug\net8.0\refint\INF04_Konsola_Uczniowie.dll
+C:\Users\SzczypkaJakub\Documents\GitHub\tida\c#\INF04_Konsola_Uczniowie\INF04_Konsola_Uczniowie\obj\Debug\net8.0\INF04_Konsola_Uczniowie.pdb
+C:\Users\SzczypkaJakub\Documents\GitHub\tida\c#\INF04_Konsola_Uczniowie\INF04_Konsola_Uczniowie\obj\Debug\net8.0\INF04_Konsola_Uczniowie.genruntimeconfig.cache
+C:\Users\SzczypkaJakub\Documents\GitHub\tida\c#\INF04_Konsola_Uczniowie\INF04_Konsola_Uczniowie\obj\Debug\net8.0\ref\INF04_Konsola_Uczniowie.dll

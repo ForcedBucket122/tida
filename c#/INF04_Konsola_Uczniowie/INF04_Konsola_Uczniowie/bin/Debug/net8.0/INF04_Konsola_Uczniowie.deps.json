@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "INF04_Konsola_Uczniowie/1.0.0": {
+        "runtime": {
+          "INF04_Konsola_Uczniowie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "INF04_Konsola_Uczniowie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

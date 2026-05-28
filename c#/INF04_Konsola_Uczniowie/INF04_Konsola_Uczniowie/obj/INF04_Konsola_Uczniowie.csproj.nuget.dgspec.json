@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SzczypkaJakub\\Documents\\GitHub\\tida\\c#\\INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SzczypkaJakub\\Documents\\GitHub\\tida\\c#\\INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SzczypkaJakub\\Documents\\GitHub\\tida\\c#\\INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie.csproj",
+        "projectName": "INF04_Konsola_Uczniowie",
+        "projectPath": "C:\\Users\\SzczypkaJakub\\Documents\\GitHub\\tida\\c#\\INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie.csproj",
+        "packagesPath": "C:\\Users\\SzczypkaJakub\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SzczypkaJakub\\Documents\\GitHub\\tida\\c#\\INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SzczypkaJakub\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
