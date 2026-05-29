@@ -5,6 +5,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{5EA12607-481B-42DB-8E2D-95F4601D9380}|INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie.csproj|c:\\users\\szczypkajakub\\documents\\github\\tida\\c#\\inf04_konsola_uczniowie\\inf04_konsola_uczniowie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EA12607-481B-42DB-8E2D-95F4601D9380}|INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie.csproj|solutionrelative:inf04_konsola_uczniowie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA12607-481B-42DB-8E2D-95F4601D9380}|INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie.csproj|c:\\users\\szczypkajakub\\documents\\github\\tida\\c#\\inf04_konsola_uczniowie\\inf04_konsola_uczniowie\\services\\uczenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA12607-481B-42DB-8E2D-95F4601D9380}|INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie.csproj|solutionrelative:inf04_konsola_uczniowie\\services\\uczenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA12607-481B-42DB-8E2D-95F4601D9380}|INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie.csproj|c:\\users\\szczypkajakub\\documents\\github\\tida\\c#\\inf04_konsola_uczniowie\\inf04_konsola_uczniowie\\tests\\scenariuszetestowe.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5EA12607-481B-42DB-8E2D-95F4601D9380}|INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie.csproj|solutionrelative:inf04_konsola_uczniowie\\tests\\scenariuszetestowe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA12607-481B-42DB-8E2D-95F4601D9380}|INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie.csproj|c:\\users\\szczypkajakub\\documents\\github\\tida\\c#\\inf04_konsola_uczniowie\\inf04_konsola_uczniowie\\models\\uczen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA12607-481B-42DB-8E2D-95F4601D9380}|INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie.csproj|solutionrelative:inf04_konsola_uczniowie\\models\\uczen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA12607-481B-42DB-8E2D-95F4601D9380}|INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie.csproj|c:\\users\\szczypkajakub\\documents\\github\\tida\\c#\\inf04_konsola_uczniowie\\inf04_konsola_uczniowie\\tests\\scenariuszetestowe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA12607-481B-42DB-8E2D-95F4601D9380}|INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie.csproj|solutionrelative:inf04_konsola_uczniowie\\tests\\scenariuszetestowe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA12607-481B-42DB-8E2D-95F4601D9380}|INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie.csproj|c:\\users\\szczypkajakub\\documents\\github\\tida\\c#\\inf04_konsola_uczniowie\\inf04_konsola_uczniowie\\inf04_konsola_uczniowie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5EA12607-481B-42DB-8E2D-95F4601D9380}|INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie.csproj|solutionrelative:inf04_konsola_uczniowie\\inf04_konsola_uczniowie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +34,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScenariuszeTestowe.txt",
+              "DocumentMoniker": "C:\\Users\\SzczypkaJakub\\Documents\\GitHub\\tida\\c#\\INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie\\Tests\\ScenariuszeTestowe.txt",
+              "RelativeDocumentMoniker": "INF04_Konsola_Uczniowie\\Tests\\ScenariuszeTestowe.txt",
+              "ToolTip": "C:\\Users\\SzczypkaJakub\\Documents\\GitHub\\tida\\c#\\INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie\\Tests\\ScenariuszeTestowe.txt",
+              "RelativeToolTip": "INF04_Konsola_Uczniowie\\Tests\\ScenariuszeTestowe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-29T11:38:42.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScenariuszeTestowe.cs",
+              "DocumentMoniker": "C:\\Users\\SzczypkaJakub\\Documents\\GitHub\\tida\\c#\\INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie\\Tests\\ScenariuszeTestowe.cs",
+              "RelativeDocumentMoniker": "INF04_Konsola_Uczniowie\\Tests\\ScenariuszeTestowe.cs",
+              "ToolTip": "C:\\Users\\SzczypkaJakub\\Documents\\GitHub\\tida\\c#\\INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie\\Tests\\ScenariuszeTestowe.cs",
+              "RelativeToolTip": "INF04_Konsola_Uczniowie\\Tests\\ScenariuszeTestowe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T11:33:18.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INF04_Konsola_Uczniowie",
+              "DocumentMoniker": "C:\\Users\\SzczypkaJakub\\Documents\\GitHub\\tida\\c#\\INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie.csproj",
+              "RelativeDocumentMoniker": "INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie.csproj",
+              "ToolTip": "C:\\Users\\SzczypkaJakub\\Documents\\GitHub\\tida\\c#\\INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie.csproj",
+              "RelativeToolTip": "INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-29T11:32:50.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UczenService.cs",
+              "DocumentMoniker": "C:\\Users\\SzczypkaJakub\\Documents\\GitHub\\tida\\c#\\INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie\\Services\\UczenService.cs",
+              "RelativeDocumentMoniker": "INF04_Konsola_Uczniowie\\Services\\UczenService.cs",
+              "ToolTip": "C:\\Users\\SzczypkaJakub\\Documents\\GitHub\\tida\\c#\\INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie\\Services\\UczenService.cs",
+              "RelativeToolTip": "INF04_Konsola_Uczniowie\\Services\\UczenService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAD4v0YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T11:32:31.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Uczen.cs",
+              "DocumentMoniker": "C:\\Users\\SzczypkaJakub\\Documents\\GitHub\\tida\\c#\\INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie\\Models\\Uczen.cs",
+              "RelativeDocumentMoniker": "INF04_Konsola_Uczniowie\\Models\\Uczen.cs",
+              "ToolTip": "C:\\Users\\SzczypkaJakub\\Documents\\GitHub\\tida\\c#\\INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie\\Models\\Uczen.cs",
+              "RelativeToolTip": "INF04_Konsola_Uczniowie\\Models\\Uczen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T11:31:54.507Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,14 +113,10 @@
               "RelativeDocumentMoniker": "INF04_Konsola_Uczniowie\\Program.cs",
               "ToolTip": "C:\\Users\\SzczypkaJakub\\Documents\\GitHub\\tida\\c#\\INF04_Konsola_Uczniowie\\INF04_Konsola_Uczniowie\\Program.cs*",
               "RelativeToolTip": "INF04_Konsola_Uczniowie\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-28T10:09:06.75Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

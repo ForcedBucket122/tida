@@ -1,0 +1,28 @@
+Scenariusze testowe (rêczne) dla projektu INF04_Konsola_Uczniowie
+
+1) Dodawanie ucznia
+- Akcja: W menu wybierz 1 i wprowadŸ imiê, nazwisko i klasê.
+- Oczekiwane: Uczeñ pojawia siê na liœcie (menu 3), Id jest unikalne.
+
+2) Dodanie oceny uczniowi
+- Akcja: Dodaj uczniów, wybierz 2, wska¿ numer ucznia i wpisz ocenê 1-6.
+- Oczekiwane: Liczba ocen roœnie, œrednia obliczona prawid³owo.
+
+3) Wyœwietlenie wszystkich uczniów
+- Akcja: Wybierz 3.
+- Oczekiwane: Lista z imieniem, nazwiskiem, klas¹, liczb¹ ocen i œredni¹.
+
+4) Wyœwietlenie œredniej ucznia
+- Akcja: Wybierz 4, wska¿ numer ucznia.
+- Oczekiwane: Pokazana jest œrednia lub informacja, ¿e brak ocen.
+
+5) Wyœwietlenie najlepszego ucznia
+- Akcja: Wybierz 5.
+- Oczekiwane: Wyœwietlony uczeñ z najwy¿sz¹ œredni¹ (jeœli brak ocen, komunikat).
+
+6) Obs³uga b³êdów
+- Akcje i oczekiwania:
+  - B³êdny numer opcji -> komunikat o b³êdzie.
+  - Dodanie oceny spoza zakresu (np. 7) -> komunikat "Ocena poza zakresem 1–6."
+  - Wybranie b³êdnego numeru ucznia -> komunikat "B³êdny numer ucznia."
+  - Brak uczniów -> komunikat przy próbie operacji wymagaj¹cej uczniów.
